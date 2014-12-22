@@ -36,80 +36,84 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-More vvorke for priests: or An answere to George Giffords pretended defence of read prayers and devi
+
+1. The Preface
+
 #####Body#####
 
-1. GEORGE GIFFORD.
+1. More works for Priests.
 
-1. IOHN GREENWODS Answer
+    _ GEORGE GIFFORD.
 
-1. The first Argument against read Prayer, &c.
+    _ IOHN GREENWODS Answer
 
-1. GEORGE GIFFORD.
+    _ The first Argument against read Prayer, &c.
 
-1. IOHN GREENWODS Answer.
+    _ GEORGE GIFFORD.
 
-1. The Second Argument.
+    _ IOHN GREENWODS Answer.
 
-1. GEORGE GIFFORD.
+    _ The Second Argument.
 
-1. J. GREENWOOD.
+    _ GEORGE GIFFORD.
 
-1. The third Argument:
+    _ J. GREENWOOD.
 
-1. GEORGE GIFFORD.
+    _ The third Argument:
 
-1. JOHN GREENWODS Answer.
+    _ GEORGE GIFFORD.
 
-1. GEORGE GIFFORD.
+    _ JOHN GREENWODS Answer.
 
-1. IOHN GREENWODS Answer.
+    _ GEORGE GIFFORD.
 
-1. G. GIFFORD.
+    _ IOHN GREENWODS Answer.
 
-1. J. GREENWOOD.
+    _ G. GIFFORD.
 
-1. G. GIFFORD.
+    _ J. GREENWOOD.
 
-1. J. GREENWOOD.
+    _ G. GIFFORD.
 
-1. The fourth Argument.
+    _ J. GREENWOOD.
 
-1. The fift Argument.
+    _ The fourth Argument.
 
-1. The Sixt Argument.
+    _ The fift Argument.
 
-1. G. GIFFORD.
+    _ The Sixt Argument.
 
-1. I. GREENWOOD.
+    _ G. GIFFORD.
 
-1. The Seventh Argument.
+    _ I. GREENWOOD.
 
-1. G. GIFFORD.
+    _ The Seventh Argument.
 
-1. I. GREENWOOD.
+    _ G. GIFFORD.
 
-1. The Eight Argument.
+    _ I. GREENWOOD.
 
-1. G. GIFFORD.
+    _ The Eight Argument.
 
-1. J. GREENWOOD.
+    _ G. GIFFORD.
 
-1. G. GIFFORD.
+    _ J. GREENWOOD.
 
-1. I. GREENWOOD.
+    _ G. GIFFORD.
 
-1. G. GIFFORD.
+    _ I. GREENWOOD.
 
-1. I. GREENWOOD.
+    _ G. GIFFORD.
 
-1. A generall Argument against their worship, in respect of their present estate, both of Ministers and people.
+    _ I. GREENWOOD.
 
-1. G. GIFFORD.
+    _ A generall Argument against their worship, in respect of their present estate, both of Ministers and people.
 
-1. J. GREENWOOD.
+    _ G. GIFFORD.
 
-1. 9 Other Arguments to prove that all set formes of prayer to be used for prayer are unlawfull.
+    _ J. GREENWOOD.
+
+    _ 9 Other Arguments to prove that all set formes of prayer to be used for prayer are unlawfull.
 
 **Types of content**
 
